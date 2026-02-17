@@ -68,4 +68,6 @@ Churn rate: ~16%
 - Develop churn prediction models for early intervention
 
 ---
-
+## Python file
+Download file here:
+https://colab.research.google.com/drive/1lX6QZ7joaOXBuML5RfjupxdP6V0LcriC
